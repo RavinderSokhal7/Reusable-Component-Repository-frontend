@@ -1,0 +1,30 @@
+.body {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 65%;
+  background: #f1f1f1;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 35px;
+}
+
+.searchBtn {
+  /* float: left; */
+  height: 47px;
+  width: 10%;
+  padding: 10px;
+  background: #2196f3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.searchBtn:hover {
+  background: #0b7dda;
+}

@@ -1,0 +1,20 @@
+.image {
+  width: 500px;
+  height: 600px;
+  padding: 20px;
+}
+
+.liStyle {
+  padding: 10px;
+  margin: 10px;
+  font-size: 14px;
+}
+
+.hStyle {
+  margin-top: 100px;
+}
+
+.hhStyle {
+  margin-top: 10px;
+  font-size: 16px;
+}
