@@ -15,7 +15,7 @@ This is a frontend for the Reusable Component Repository Backend, accessing the 
 ![Home](/FrontendScreenshots/homeloggedin.JPG?raw=true "Home")
 
 
-![Finding Components](/FrontendScreenshots/searchIn.JPG?raw=true "Finding Components")
+![Finding Components](/FrontendScreenshots/searchIn2.JPG?raw=true "Finding Components")
 
 
 ![Component Details](/FrontendScreenshots/compDetail.JPG?raw=true "Component Details")
