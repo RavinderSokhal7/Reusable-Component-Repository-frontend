@@ -1,6 +1,27 @@
-# Getting Started with Create React App
+# Reusable Component Repository Frontend
+A website where users can preview and download components and integrate them to there own projects.
+This is a frontend for the Reusable Component Repository Backend, accessing the RESTful api provided.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Reusable Component Repository Backend](https://github.com/RavinderSokhal7/Reusable-Component-Repository-Backend)
+
+## Built With
+
+* [Reactjs](https://reactjs.org/) - Framework for frontend
+
+## UI
+
+![Login](/FrontendScreenshots/login.JPG?raw=true "Login")
+
+![Home](/FrontendScreenshots/homeloggedin.JPG?raw=true "Home")
+
+
+![Finding Components](/FrontendScreenshots/searchIn.JPG?raw=true "Finding Components")
+
+
+![Component Details](/FrontendScreenshots/compDetail.JPG?raw=true "Component Details")
+
+
+![Insert Component](/FrontendScreenshots/insertSucc.JPG?raw=true "Insert Component")
 
 ## Available Scripts
 
